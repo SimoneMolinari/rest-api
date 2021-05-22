@@ -1,0 +1,2 @@
+node /dati/index.js
+

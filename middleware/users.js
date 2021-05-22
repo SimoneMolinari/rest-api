@@ -34,7 +34,7 @@ module.exports = {
       const token = req.headers.authorization.split(' ')[1];
       const decoded = jwt.verify(
         token,
-        'icanenteryoucannot'
+        'eE5!dsz8bFb^bL@rRQFiy*cWJxXNEu!awZ!er6gRn8Vb@FTYE@'
       );
       req.userData = decoded;
       next();
