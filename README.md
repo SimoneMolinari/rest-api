@@ -1,2 +1,2 @@
 # rest-api
-idk man
+RestAPI fot school project
